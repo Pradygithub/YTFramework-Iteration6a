@@ -1,0 +1,4 @@
+2020-06-06 06:00:33 {TC1} (main:) Login success
+2020-06-06 06:00:38 {TC1} (main:) Hard assretion for URL matching is true
+2020-06-06 06:00:47 {TC1} (main:) Soft assertion of email matching is true
+2020-06-06 06:01:05 {TC1} (main:) Logout success
